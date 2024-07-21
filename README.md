@@ -1,6 +1,6 @@
 # Twitter-Stock-ML
 
-This is a data analysis on Twitter Stock using Machine Learning Techniques in python. 
+This is a data analysis on Twitter Stock using Machine Learning Techniques in python. This use three different csv data file. Twitter Stock Market Dataset.csv is the main data file that was use in the data analysis. The other two were use to see if the model works. 
 
 # What I learned
 
